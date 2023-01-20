@@ -1,0 +1,28 @@
+Exercise 1:
+return type: Int
+method name:  cmd_worktree
+parameters: int ac, const char **av, const char *prefix
+
+Exercise 2:
+The latest version is 1.5.2 with "RelNotes-1.5.2.txt" name and "6195715dc78a26ce9ac452bd64852455fb79137c" git hash
+
+Exercise 3:
+Output of the command: 100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f    tutorial.txt
+explanation: 
+git cat-file -p 83484f, this command provides the list of files
+tail - 4 : gives the last 4 entries found by the result
+head -1 : gives the first entry found by the result
+
+Exercise 5:
+Update German translation for Git v2.31.0
+
+Exercise 6:
+PAGER='head -n 80' git log --graph --grep="refactored" --pretty=oneline
+
+Exercise 7:
+The first file which is changed is Documentation/config.txt
+
+Exercise:
+List of all the branches:
+Local: master
+Remote: jch, main, maint, master, next, seen, todo
