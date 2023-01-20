@@ -1,2 +1,3 @@
 # CS5704 SE Basics Workshop
-Hello!
+Mihir Lahu Palyekar
+Hello GitHub!
